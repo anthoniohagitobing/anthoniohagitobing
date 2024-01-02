@@ -1,5 +1,12 @@
-### Hi there 👋
+<h1 align='center'>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!👋, I'm Anthonio Hagi Tobing</h1> 
 
+- 📫 How to reach me:
+  <div display='inline'>
+    <a href="https://www.linkedin.com/in/anthonio-hagi-tobing/"><img alt="LinkedIn" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />   https://www.linkedin.com/in/anthonio-hagi-tobing/</a>
+  </div>
+  <div>
+    <a href="mailto:anthonio.tobing@gmail.com"><img alt="Email" height="20px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" />   anthonio.tobing@gmail.com</a>
+  </div>
 <!--
 **anthoniohagitobing/anthoniohagitobing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
