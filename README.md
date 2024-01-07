@@ -1,13 +1,19 @@
 <h1 align='center'>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/anthoniohagitobing/anthoniohagitobing/blob/main/Hi.gif" width="30"></h1> 
 <h2 align='center'>My name is Anthonio Hagi Tobing</h2>
 
-- 🔭 I’m currently working on ...
+- 🔭 Projects I’m currently working on ...
    - <img alt="Tsugo Online" height="50px" src="https://i.ibb.co/CWM3PmN/dall-e-2023-12-07-23-33-34-revise-the-existing-logo-design-to-depict-a-scene-of-interpretation-rathe.png" />
      <p>Tsugo: An uber-translator web application that allows expats in Japan to connect with multi-lingual users and receive real-time interpretation assistance. The app provides location search with Google Maps and communication services utilizing built-in chat and video call.</p> 
      <p>Website link: <a href="https://www.tsugo.online/">https://www.tsugo.online/</a></p>
      <p>Github link: <a href="https://github.com/TSUGO-CORPORATED">https://github.com/TSUGO-CORPORATED</a></p>
-
-- 📫 How to reach me:
+   - <img src="https://github.com/anthoniohagitobing/anthoniohagitobing/blob/main/logo.jpeg" width="50">
+     <p>A web application that allows users to manage their personal finance. Users can log-in their daily income and expenses and see a tabulated summary.</p>
+     <p>Currently on the process of reworking project the front-end with Next.js and the back-end with Django to allow better features to be implemented such as internationalization.</p>
+     <p>Website link: <a href="https://personal-finance-app-website.onrender.com">https://personal-finance-app-website.onrender.com</a></p>
+     <p>Github link (front-end): <a href="https://github.com/anthoniohagitobing/personal-finance-app-website">https://github.com/anthoniohagitobing/personal-finance-app-website</a></p>
+     <p>Github link (back-end): <a href="https://github.com/anthoniohagitobing/personal-finance-app-server">https://github.com/anthoniohagitobing/personal-finance-app-server</a></p>
+     
+-  📫 How to reach me:
   <div display='inline'>
     <a href="https://www.linkedin.com/in/anthonio-hagi-tobing/">
       <img alt="LinkedIn" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />        
