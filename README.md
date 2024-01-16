@@ -15,7 +15,7 @@
    - <img src="https://github.com/anthoniohagitobing/anthoniohagitobing/blob/main/logo.png" width="50">
      <p>This web-browser game allows users to browse a dictionary of Pokémon names. Users can test knowledge in a quiz game, complete with multiple game modes, language options and leaderboard.</p>
      <p>Website link: <a href="https://pokedictionarygame.onrender.com/">https://pokedictionarygame.onrender.com/</a></p>
-     <p>Github link (front-end): <a href="https://github.com/SquirtleDan/PokemonDictionary">https://github.com/SquirtleDan/PokemonDictionary</a></p>
+     <p>Github link: <a href="https://github.com/SquirtleDan/PokemonDictionary">https://github.com/SquirtleDan/PokemonDictionary</a></p>
      
 -  📫 How to reach me:
   <div display='inline'>
