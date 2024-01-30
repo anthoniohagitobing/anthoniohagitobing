@@ -11,7 +11,10 @@
      <p>Currently on the process of reworking project the front-end with Next.js and the back-end with Django to allow better features to be implemented such as internationalization.</p>
  
      <p>V2:</p>
-
+     <p>Website link: <a href="https://bookkeeper-web-app.vercel.app/en">https://bookkeeper-web-app.vercel.app/en</a></p>
+     <p>Github link (front-end): <a href="https://github.com/anthoniohagitobing/bookkeeper-web-app">https://github.com/anthoniohagitobing/bookkeeper-web-app</a></p>
+     <p>Github link (back-end): <a href="https://github.com/anthoniohagitobing/bookkeeper-server">https://github.com/anthoniohagitobing/bookkeeper-server</a></p>
+     <br>
      <p>V1:
      <p>Website link: <a href="https://personal-finance-app-website.onrender.com">https://personal-finance-app-website.onrender.com</a></p>
      <p>Github link (front-end): <a href="https://github.com/anthoniohagitobing/personal-finance-app-website">https://github.com/anthoniohagitobing/personal-finance-app-website</a></p>
