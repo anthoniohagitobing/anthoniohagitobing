@@ -8,7 +8,7 @@
      <p>Github link: <a href="https://github.com/TSUGO-CORPORATED">https://github.com/TSUGO-CORPORATED</a></p>
    - <img src="https://github.com/anthoniohagitobing/anthoniohagitobing/blob/main/logo.jpeg" width="50">
      <p>A web application that allows users to manage their personal finance. Users can log-in their daily income and expenses and see a tabulated summary.</p>
-     <p>Currently on the process of reworking project the front-end with Next.js and the back-end with Django to allow better features to be implemented such as internationalization.</p>
+     <p>Currently on the process of reworking project the front-end with Next.js and the back-end with Django to allow better features to be implemented such as internationalization. The previous tech stack is React.js and Node.js.</p>
  
      <p>V2:</p>
      <p>Website link: <a href="https://bookkeeper-web-app.vercel.app/en">https://bookkeeper-web-app.vercel.app/en</a></p>
