@@ -9,6 +9,10 @@
    - <img src="https://github.com/anthoniohagitobing/anthoniohagitobing/blob/main/logo.jpeg" width="50">
      <p>A web application that allows users to manage their personal finance. Users can log-in their daily income and expenses and see a tabulated summary.</p>
      <p>Currently on the process of reworking project the front-end with Next.js and the back-end with Django to allow better features to be implemented such as internationalization.</p>
+ 
+     <p>V2:</p>
+
+     <p>V1:
      <p>Website link: <a href="https://personal-finance-app-website.onrender.com">https://personal-finance-app-website.onrender.com</a></p>
      <p>Github link (front-end): <a href="https://github.com/anthoniohagitobing/personal-finance-app-website">https://github.com/anthoniohagitobing/personal-finance-app-website</a></p>
      <p>Github link (back-end): <a href="https://github.com/anthoniohagitobing/personal-finance-app-server">https://github.com/anthoniohagitobing/personal-finance-app-server</a></p>
